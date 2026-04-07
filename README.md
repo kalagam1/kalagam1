@@ -42,11 +42,4 @@ I am a cybersecurity enthusiast and full-stack developer obsessed with the "Defe
 * 💼 **LinkedIn:** [linkedin.com/in/mahitha-kalaga](https://linkedin.com/in/your-profile-url)
 * 📍 **Base of Operations:** Dayton, Ohio
 
-**Always learning. Always hacking. Always defending.** ```
-
----
-
-### **Why this works for you:**
-1.  **Direct Passion:** Starting with a "hacker quote" and mentioning your "obsession" with security immediately catches the eye of a specialized recruiter.
-2.  **Narrative Descriptions:** Instead of just saying "I made a project," you're asking questions ("Can AI defend the web?") which makes the reader want to click and find out.
-3.  **Active Language:** Phrases like "shut down SQLi," "sniff out phishing," and "bridge the gap" show that you are an active participant in the field, not just a student doing homework.
+**Always learning. Always hacking. Always defending.** 
