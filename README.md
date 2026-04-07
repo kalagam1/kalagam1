@@ -29,7 +29,8 @@ I am a cybersecurity enthusiast and researcher obsessed with the "Defense in Dep
 ## 🛠️ My Technical Arsenal
 * **Languages:** Python (PyTorch/Scikit-learn), Golang, PHP, JavaScript (Node.js), SQL
 * **Security Gear:** Burp Suite, OWASP ZAP, Nmap, Nessus, Metasploit, Wireshark
-* **Research Focus:** Immutable Ledgers, Neural Networks, Medical Imaging Security
+* **Research Focus:** Immutable Ledgers, Neural Networks, Medical Imaging Security, BERT, NLP, Adversarial ML, Statistical Data Analysics
+* **Defensive Tactics:** RBAC, IAM, Prepared Statements, JWT, CSRF Mitigation
 
 ---
 
