@@ -39,7 +39,7 @@ I am a cybersecurity enthusiast and researcher obsessed with the "Defense in Dep
 ### 🤖 [BERT-Powered Phishing Defense](https://github.com/kalagam1/phishing-url-detection-bert)
 > *Can AI defend the web?* I fine-tuned a **BERT Transformer** model to classify phishing URLs with **92.2% accuracy**. I focused heavily on high recall to ensure maximum threat detection in real-world scenarios.
 
-### 🔐 [The "Ironclad" Blog Platform](https://github.com/kalagaml/secure-blog-platform)
+### 🔐 [The "Ironclad" Blog Platform](https://github.com/kalagam1/secure-blog-platform)
 > A full-stack application featuring **Role-Based Access Control (RBAC)**, custom **CSRF tokens**, and **Prepared Statements** to shut down SQLi before it starts.
 
 ### 💬 [Secure-Talk: Go/Node.js Chat](https://github.com/kalagaml/secure-chat-system)
