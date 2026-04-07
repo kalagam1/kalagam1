@@ -36,7 +36,7 @@ I am a cybersecurity enthusiast and researcher obsessed with the "Defense in Dep
 
 ## 🚀 Featured Cyber Projects
 
-### 🤖 [BERT-Powered Phishing Defense](https://github.com/kalagaml/phishing-url-detection-bert)
+### 🤖 [BERT-Powered Phishing Defense](https://github.com/kalagam1/phishing-url-detection-bert)
 > *Can AI defend the web?* I fine-tuned a **BERT Transformer** model to classify phishing URLs with **92.2% accuracy**. I focused heavily on high recall to ensure maximum threat detection in real-world scenarios.
 
 ### 🔐 [The "Ironclad" Blog Platform](https://github.com/kalagaml/secure-blog-platform)
