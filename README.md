@@ -1,39 +1,48 @@
-# 🛡️ Hi, I'm Mahitha Kalaga! | Aspiring Security Engineer 🚀
+# 🛡️ Hi, I'm Mahitha Kalaga! | Security Researcher & Engineer 🚀
 
 ### **"The best way to predict the future is to secure it."**
 **🎓 Master’s in Computer Science @ University of Dayton | Graduating May 2026**
 
-I am a cybersecurity enthusiast and full-stack developer obsessed with the "Defense in Depth" philosophy. Whether I'm fine-tuning Transformers to sniff out phishing URLs or manually exploiting SQL injections to understand the root cause, I am driven by a relentless curiosity to understand how systems fail—and how to make them unshakeable.
+I am a cybersecurity enthusiast and researcher obsessed with the "Defense in Depth" philosophy. From fine-tuning Transformers to detect phishing threats to exploring immutable ledger databases for securing healthcare records, I am driven by a mission to build unshakeable digital infrastructures.
+
+---
+
+## 📚 Research & Publications
+
+### 📄 [Bronchopneumonia Diagnosis Using Convolutional Neural Network](https://ieeexplore.ieee.org/document/10112695)
+**Published in:** *2023 9th International Conference on Advanced Computing and Communication Systems (ICACCS)*
+> Developed an automated diagnostic system using **Deep Learning (CNN)** to analyze medical imagery. This research leverages supervised classifier algorithms and pre-trained models to provide reliable medical insights in remote areas.
+
+### 📝 [Enhancing Electronic Health Record (EHR) Security with Immutable Ledger Databases](https://github.com/kalagaml/ehr-security-research)
+**Status:** *In Progress (Advanced Database Systems)*
+> Investigating the transition from mutable RDBMS to **immutable ledger databases** (like Amazon QLDB) to combat the 100%+ surge in healthcare data breaches. My work focuses on creating cryptographically verifiable audit trails to neutralize ransomware and unauthorized CRUD operations.
 
 ---
 
 ## ⚡ What I’m Obsessed With
 * **🔍 Threat Hunting:** Using AI/ML (BERT) to identify malicious patterns at scale.
-* **🏗️ Secure Architecture:** Building web apps that treat security as a feature, not an afterthought.
-* **😈 The Attacker Perspective:** Deep-diving into the OWASP Top 10 to master the art of penetration testing.
+* **🏗️ Secure Architecture:** Implementing "Security by Design" to protect sensitive PII and PHI.
+* **😈 The Attacker Perspective:** Mastering penetration testing to build better defenses.
 
 ---
 
 ## 🛠️ My Technical Arsenal
 * **Languages:** Python (PyTorch/Scikit-learn), Golang, PHP, JavaScript (Node.js), SQL
 * **Security Gear:** Burp Suite, OWASP ZAP, Nmap, Nessus, Metasploit, Wireshark
-* **Hardened Development:** Secure Session Management, RBAC, Cryptography, IAM
+* **Research Focus:** Immutable Ledgers, Neural Networks, Medical Imaging Security
 
 ---
 
 ## 🚀 Featured Cyber Projects
 
 ### 🤖 [BERT-Powered Phishing Defense](https://github.com/kalagaml/phishing-url-detection-bert)
-> *Can AI defend the web?* I fine-tuned a **BERT Transformer** model to classify phishing URLs with **92.2% accuracy**. I focused heavily on high recall because, in security, missing a single threat is one too many.
+> *Can AI defend the web?* I fine-tuned a **BERT Transformer** model to classify phishing URLs with **92.2% accuracy**. I focused heavily on high recall to ensure maximum threat detection in real-world scenarios.
 
 ### 🔐 [The "Ironclad" Blog Platform](https://github.com/kalagaml/secure-blog-platform)
-> A full-stack PHP/MySQL application built to be a fortress. It features **Role-Based Access Control (RBAC)**, custom **CSRF tokens**, and **Prepared Statements** to shut down SQLi before it starts.
+> A full-stack application featuring **Role-Based Access Control (RBAC)**, custom **CSRF tokens**, and **Prepared Statements** to shut down SQLi before it starts.
 
 ### 💬 [Secure-Talk: Go/Node.js Chat](https://github.com/kalagaml/secure-chat-system)
-> Real-time messaging meets high-performance security. I used **Go routines** for massive concurrency and built a secure JSON authentication protocol to ensure only verified users can enter the stream.
-
-### 🕵️ [Vulnerability Research Lab](https://github.com/kalagaml/vulnerability-assessment)
-> Hands-on "Red Team" simulations. I exploited and then documented the remediation for **XSS, SQLi, and Session Hijacking** in DVWA and Mutillidae environments to bridge the gap between attack and defense.
+> High-performance messaging meets security. Used **Go routines** for concurrency and built a secure JSON authentication protocol for private and public messaging over TCP.
 
 ---
 
@@ -42,4 +51,4 @@ I am a cybersecurity enthusiast and full-stack developer obsessed with the "Defe
 * 💼 **LinkedIn:** [linkedin.com/in/mahitha-kalaga](https://linkedin.com/in/your-profile-url)
 * 📍 **Base of Operations:** Dayton, Ohio
 
-**Always learning. Always hacking. Always defending.** 
+**Always learning. Always hacking. Always defending.**
