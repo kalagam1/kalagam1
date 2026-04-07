@@ -42,7 +42,7 @@ I am a cybersecurity enthusiast and researcher obsessed with the "Defense in Dep
 ### 🔐 [The "Ironclad" Blog Platform](https://github.com/kalagam1/secure-blog-platform)
 > A full-stack application featuring **Role-Based Access Control (RBAC)**, custom **CSRF tokens**, and **Prepared Statements** to shut down SQLi before it starts.
 
-### 💬 [Secure-Talk: Go/Node.js Chat](https://github.com/kalagaml/secure-chat-system)
+### 💬 [Secure-Talk: Go/Node.js Chat](https://github.com/kalagam1/secure-concurrent-chat)
 > High-performance messaging meets security. Used **Go routines** for concurrency and built a secure JSON authentication protocol for private and public messaging over TCP.
 
 ---
