@@ -3,7 +3,7 @@
 **M.S. Computer Science, University of Dayton · Graduating May 2026 · Dayton, OH**
 kalagam1@udayton.edu · [LinkedIn](https://linkedin.com/in/mahitha-kalaga)
 
-Security engineer focused on **AI-driven threat detection** and **secure system design**. I apply a defense-in-depth philosophy — from fine-tuning transformer models to detect phishing at scale, to building full-stack applications hardened against real-world attack vectors.
+Security engineer focused on **AI-driven threat detection** and **secure system design**. Applied a defense-in-depth philosophy from fine-tuning transformer models to detect phishing at scale, to building full-stack applications hardened against real-world attack vectors.
 
 ---
 
