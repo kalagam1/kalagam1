@@ -1,76 +1,51 @@
-# 🛡️ Mahitha Kalaga | Security Engineer
+# Mahitha Kalaga — Security Engineer
 
-Security Engineer focused on **AI-driven threat detection** and **secure system design**.
+**M.S. Computer Science, University of Dayton · Graduating May 2026 · Dayton, OH**
+kalagam1@udayton.edu · [LinkedIn](https://linkedin.com/in/mahitha-kalaga)
 
-• Built BERT-based phishing detector → 92.2% accuracy, high-recall threat detection  
-• Developed secure full-stack systems with RBAC, CSRF protection, SQLi prevention  
-• Designed concurrent TCP messaging system using Go routines  
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 BERT-Powered Phishing Detection  
-Fine-tuned BERT (HuggingFace Transformers) on ~50K labeled URLs  
-→ 92.2% accuracy | 0.94 recall (phishing class)  
-→ Optimized for high recall to minimize missed threats in real-world scenarios  
-→ Tech: PyTorch, Transformers, Scikit-learn  
-
-🔗 GitHub: https://github.com/kalagam1/phishing-url-detection-bert  
+Security engineer focused on **AI-driven threat detection** and **secure system design**. I apply a defense-in-depth philosophy — from fine-tuning transformer models to detect phishing at scale, to building full-stack applications hardened against real-world attack vectors.
 
 ---
 
-### 🔐 Ironclad Secure Blog Platform  
-Secure full-stack application with built-in attack defenses  
-→ Role-Based Access Control (RBAC) with strict role isolation  
-→ CSRF token validation on all state-changing requests  
-→ SQL injection prevention using prepared statements  
-→ Tech: Node.js, Express, MySQL  
+## Featured projects
 
-🔗 GitHub: https://github.com/kalagam1/secure-blog-platform  
+### BERT-powered phishing detection · [GitHub](https://github.com/kalagam1/phishing-url-detection-bert)
+Fine-tuned BERT (HuggingFace Transformers) on ~50K labeled URLs for real-world phishing detection.
+- **92.2% accuracy · 0.94 recall** on phishing class — optimized to minimize missed threats
+- PyTorch · Transformers · Scikit-learn
 
----
+### Ironclad secure blog platform · [GitHub](https://github.com/kalagam1/secure-blog-platform)
+Full-stack application built security-first, with multiple layered defenses.
+- Role-based access control (RBAC) with strict role isolation
+- CSRF token validation on all state-changing requests
+- SQL injection prevention via prepared statements
+- Node.js · Express · MySQL
 
-### 💬 Secure-Talk: Concurrent Chat System  
-High-performance TCP messaging system with security-first design  
-→ Implemented Go routines for concurrent client handling  
-→ Custom JSON-based authentication protocol  
-→ Supports private and public messaging channels  
-→ Tech: Go, Node.js, TCP sockets  
-
-🔗 GitHub: https://github.com/kalagam1/secure-concurrent-chat  
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:** Python, Go, JavaScript (Node.js), SQL  
-**Security Tools:** Burp Suite, OWASP ZAP, Nmap, Nessus, Wireshark  
-**Core Areas:** Application Security, Threat Detection (ML), Secure System Design  
+### Secure-Talk: concurrent chat system · [GitHub](https://github.com/kalagam1/secure-concurrent-chat)
+High-performance TCP messaging system with security-first design.
+- Go routines for concurrent client handling · custom JSON-based auth protocol
+- Private and public messaging channels over TCP
+- Go · Node.js · TCP sockets
 
 ---
 
-## 📚 Research
+## Research & publications
 
-### Bronchopneumonia Diagnosis Using CNN  
-Published in IEEE ICACCS 2023  
-→ Developed deep learning model for medical image classification  
-🔗 https://ieeexplore.ieee.org/document/10112695  
+### Bronchopneumonia diagnosis using CNN · [IEEE ICACCS 2023](https://ieeexplore.ieee.org/document/10112695)
+Published deep learning model for automated medical image classification using supervised CNNs and pre-trained architectures. Designed for diagnostic use in low-resource settings.
 
----
-
-### EHR Security with Immutable Ledger Databases  
-Research in progress  
-→ Exploring Amazon QLDB for tamper-proof healthcare records  
-→ Focus on cryptographically verifiable audit trails
+### EHR security with immutable ledger databases · [In progress](https://github.com/kalagaml/ehr-security-research)
+Investigating the transition from mutable RDBMS to immutable ledger databases (Amazon QLDB) to address the surge in healthcare data breaches. Focus: cryptographically verifiable audit trails to neutralize ransomware and unauthorized data manipulation.
 
 ---
 
-## 📫 Contact
+## Technical skills
 
-📧 kalagam1@udayton.edu  
-💼 https://linkedin.com/in/mahitha-kalaga  
+**Languages:** Python · Go · JavaScript (Node.js) · SQL  
+**Security tools:** Burp Suite · OWASP ZAP · Nmap · Nessus · Metasploit · Wireshark  
+**Core areas:** Application security · Threat detection (ML/NLP) · Penetration testing · Secure system design  
+**Techniques:** RBAC · IAM · CSRF mitigation · JWT · Prepared statements · Adversarial ML  
 
 ---
 
-**Focused on building systems that remain secure under real-world attacks.**
+*Building systems that hold under real-world attacks.*
