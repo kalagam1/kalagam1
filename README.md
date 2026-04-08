@@ -19,6 +19,7 @@ Secure system architecture & authentication design
 
 🚨 Featured Projects
 🏢 Home SOC & Incident Response Lab · GitHub · In Progress
+
 A full-scale simulated Security Operations Center designed to replicate enterprise-level threat detection and response workflows.
 * Built a SOC pipeline using Sysmon + Splunk/Wazuh for centralized log analysis
 * Simulated real-world attacks including brute force, privilege escalation, and PowerShell-based execution
@@ -33,6 +34,7 @@ A full-scale simulated Security Operations Center designed to replicate enterpri
 * Designed for high-recall security use cases where missed threats are critical
 
 🔐 Ironclad Secure Blog Platform · GitHub
+
 Security-first full-stack web application designed with layered defenses against common attack vectors.
 * Implemented role-based access control (RBAC) with strict privilege separation
 * Integrated CSRF protection across all state-changing operations
@@ -40,6 +42,7 @@ Security-first full-stack web application designed with layered defenses against
 * Built using Node.js, Express, and MySQL
 
 💬 Secure-Talk: Concurrent Chat System · GitHub
+
 High-performance TCP-based messaging system designed with authentication and concurrency controls.
 * Implemented Go routines for concurrent client handling
 * Designed a custom JSON-based authentication protocol
@@ -59,8 +62,11 @@ Research on transitioning healthcare systems from mutable databases to immutable
 
 🛠️ Technical Skills
 Languages: Python · Go · JavaScript (Node.js) · SQL
+
 Security Tools: Splunk · Wazuh · Burp Suite · OWASP ZAP · Nmap · Wireshark · Metasploit
+
 Security Domains: SOC operations · Threat detection engineering · Application security · Incident response
+
 Concepts: SIEM correlation · Log analysis · RBAC · IAM · JWT · OWASP Top 10 · Adversarial ML
 
 ---
