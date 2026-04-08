@@ -9,6 +9,9 @@ Security engineer focused on **AI-driven threat detection** and **secure system 
 
 ## Featured projects
 
+### Home SOC Incident Reponse Lab · [Github](https://github.com/kalagam1/Home-SOC-Incident-Response-Lab) · Ongoing
+
+
 ### BERT-powered phishing detection · [GitHub](https://github.com/kalagam1/phishing-url-detection-bert)
 Fine-tuned BERT (HuggingFace Transformers) on ~50K labeled URLs for real-world phishing detection.
 - **92.2% accuracy · 0.94 recall** on phishing class — optimized to minimize missed threats
