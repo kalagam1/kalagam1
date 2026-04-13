@@ -45,6 +45,13 @@ Security engineer focused on threat detection, secure system design, and applied
 - Supported secure private and group messaging channels over TCP
 - Built with Go, Node.js, and raw socket programming
 
+🎮 Crawler Bot Reinforcement Learning · [GitHub](https://github.com/kalagam1/crawler-rl-learning)
+ - Implemented Monte Carlo, SARSA, and Q-Learning algorithms to optimize robotic movement in a simulated environment
+ - Designed ε-greedy policy for action selection across a 19×37 state space with 9 actions per state
+ - Developed Q-value update mechanisms using trajectory-based and temporal-difference learning
+ - Improved agent performance by optimizing reward based on forward displacement
+ - Visualized learning using Q-value and state-value representations
+
 ---
 
 ### 📚 Research & Publications
