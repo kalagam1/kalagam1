@@ -59,7 +59,7 @@ Security Engineer focused on AI-driven threat detection and defensive system des
 - Developed a deep learning-based medical imaging system for automated pneumonia classification using supervised CNN architectures.
 - Focused on improving diagnostic accuracy in low-resource environments.
 
-🔐 EHR Security with Immutable Ledger Databases · In Progress
+🔐 EHR Security with Immutable Ledger Databases · [GitHub](https://github.com/kalagam1/ehr-immutable-ledger-security)
 - Research on transitioning healthcare systems from mutable databases to immutable ledger-based architectures (Amazon QLDB) to improve auditability, ransomware resistance, and tamper-proof medical records.
 
 ---
