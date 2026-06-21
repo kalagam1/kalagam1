@@ -20,8 +20,7 @@ My work is centered on blue-team security engineering: improving visibility, wri
 
 ### 🚨 Featured Projects
 
-🏢 Home SOC & Incident Response Lab · [GitHub](https://github.com/kalagam1/Home-SOC-Incident-Response-Lab) · In Progress
-
+🏢 Home SOC & Incident Response Lab · [GitHub](https://github.com/kalagam1/Home-SOC-Incident-Response-Lab) · In Progress \
 A simulated Security Operations Center built to mirror enterprise detection and response workflows across common attack scenarios.
 - Built a centralized monitoring pipeline using Sysmon + Splunk/Wazuh for endpoint telemetry collection and analysis
 - Simulated attacker behaviors including brute-force activity, privilege escalation, and suspicious PowerShell execution
