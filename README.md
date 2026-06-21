@@ -21,6 +21,7 @@ My work is centered on blue-team security engineering: improving visibility, wri
 ### 🚨 Featured Projects
 
 🏢 Home SOC & Incident Response Lab · [GitHub](https://github.com/kalagam1/Home-SOC-Incident-Response-Lab) · In Progress
+
 A simulated Security Operations Center built to mirror enterprise detection and response workflows across common attack scenarios.
 - Built a centralized monitoring pipeline using Sysmon + Splunk/Wazuh for endpoint telemetry collection and analysis
 - Simulated attacker behaviors including brute-force activity, privilege escalation, and suspicious PowerShell execution
@@ -29,6 +30,7 @@ A simulated Security Operations Center built to mirror enterprise detection and 
 - Developed reusable detection and response runbooks for repeatable SOC investigations
 
 🤖 BERT-powered Phishing Detection · [GitHub](https://github.com/kalagam1/phishing-url-detection-bert)
+
 A phishing URL detection pipeline built to support high-recall threat classification for malicious link detection.
 - Fine-tuned BERT (HuggingFace Transformers) for phishing URL classification using ~50K labeled URLs
 - Achieved 92.2% accuracy and 0.94 recall, optimizing for reduced false negatives in phishing detection workflows
@@ -36,6 +38,7 @@ A phishing URL detection pipeline built to support high-recall threat classifica
 - Designed for defensive use cases where missed malicious URLs carry higher operational risk than false positives
 
 🔐 Ironclad Secure Blog Platform · [GitHub](https://github.com/kalagam1/secure-blog-platform)
+
 A security-first web application designed to demonstrate defensive backend engineering and application-layer protections.
 - Implemented role-based access control (RBAC) to enforce privilege separation across application workflows
 - Secured state-changing operations with CSRF protections and input validation safeguards
@@ -43,6 +46,7 @@ A security-first web application designed to demonstrate defensive backend engin
 - Applied secure backend design principles aligned with authentication, session security, and OWASP Top 10 mitigation
 
 💬 Secure-Talk: Concurrent Chat System · [GitHub](https://github.com/kalagam1/secure-concurrent-chat)
+
 A concurrent messaging system built to explore secure communication design, authentication workflows, and backend access control.
 - Built a TCP-based chat system with concurrent client handling using Go routines
 - Designed a custom JSON-based authentication protocol to manage user validation and session behavior
@@ -55,6 +59,7 @@ A concurrent messaging system built to explore secure communication design, auth
 ### 🧪 Additional Technical Projects
 
 🎮 Crawler Bot Reinforcement Learning · [GitHub](https://github.com/kalagam1/crawler-rl-learning)
+
 Implemented Monte Carlo, SARSA, and Q-Learning algorithms to optimize robotic movement in a simulated environment.
 - Designed an ε-greedy policy for action selection across a 19×37 state space with 9 actions per state
 - Developed Q-value update mechanisms using trajectory-based and temporal-difference learning
@@ -65,11 +70,13 @@ Implemented Monte Carlo, SARSA, and Q-Learning algorithms to optimize robotic mo
 
 ### 📚 Research & Publications
 🧠 CNN-based Bronchopneumonia Detection · [IEEE ICACCS 2023](https://ieeexplore.ieee.org/document/10112695)
+
 Developed a deep learning-based medical imaging system for automated pneumonia classification using supervised CNN architectures.
 - Focused on improving diagnostic accuracy in low-resource environments
 - Published as part of IEEE ICACCS 2023
 
 🔐 EHR Security with Immutable Ledger Databases · [GitHub](https://github.com/kalagam1/ehr-immutable-ledger-security)
+
 Research on transitioning healthcare systems from mutable databases to immutable ledger-based architectures to improve auditability, ransomware resilience, and tamper-resistant medical records.
 - Evaluated how Amazon QLDB can strengthen integrity and forensic trust in electronic health record systems
 - Focused on database immutability, auditability, and resilience against unauthorized modification of sensitive records
