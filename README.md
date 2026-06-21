@@ -54,7 +54,6 @@ A concurrent messaging system built to explore secure communication design, auth
 - Explored secure systems design concepts around authentication flow, protocol handling, and abuse-resistant backend behavior
 
 ---
----
 
 ### 🧪 Additional Technical Projects
 
