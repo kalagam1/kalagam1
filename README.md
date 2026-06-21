@@ -1,76 +1,96 @@
 ### 🛡️ Mahitha Kalaga — Security Engineer
 
-M.S. Computer Science, University of Dayton · New Grad May 2026 · Dayton, OH · [kalagam1@udayton.edu](kalagam1@udayton.edu) · [LinkedIn](https://linkedin.com/in/mahitha-kalaga)
+M.S. Computer Science, University of Dayton · New Grad May 2026 · Dayton, OH · [kalagam1@udayton.edu](mailto:kalagam1@udayton.edu) · [LinkedIn](https://linkedin.com/in/mahitha-kalaga)
 
-Security Engineer focused on AI-driven threat detection and defensive system design, specializing in SOC automation, adversarial ML, and secure backend architectures. I build systems that don’t just function, they actively resist, detect, and respond to real-world attack patterns. My work spans from fine-tuning transformer models for phishing detection to simulating SOC environments that mirror enterprise incident response workflows.
+Security Engineer focused on detection engineering, incident response, SOC automation, and secure system design. I build defensive security systems that help teams detect, investigate, and respond to real-world attack activity — from developing Sysmon + Splunk/Wazuh pipelines for security monitoring to building phishing detection models and secure applications with strong authentication, access control, and OWASP-aligned protections.
+
+My work is centered on blue-team security engineering: improving visibility, writing practical detections, investigating suspicious activity, and building systems that remain resilient under attack.
 
 ---
 
 ### 🧠 Core Focus Areas
+- Detection Engineering (SIEM detections, alert logic, event correlation)
 - Security Operations & Incident Response (SOC)
-- Threat Detection Engineering (SIEM + log analysis)
-- Application Security (OWASP Top 10 mitigation)
-- AI-driven cybersecurity (NLP + anomaly detection)
-- Secure system architecture & authentication design
+- Threat Investigation & Log Analysis
+- Security Automation with Python
+- Application Security (OWASP Top 10, RBAC, secure backend design)
+- AI for Security (phishing URL detection, security-focused ML pipelines)
 
 ---
 
 ### 🚨 Featured Projects
 
 🏢 Home SOC & Incident Response Lab · [GitHub](https://github.com/kalagam1/Home-SOC-Incident-Response-Lab) · In Progress
-- A full-scale simulated Security Operations Center designed to replicate enterprise-level threat detection and response workflows.
-- Built a SOC pipeline using Sysmon + Splunk/Wazuh for centralized log analysis
-- Simulated real-world attacks including brute force, privilege escalation, and PowerShell-based execution
-- Performed alert triage, log correlation, and incident investigation across multiple scenarios
-- Authored structured incident response reports with IOCs, timelines, and remediation steps
-- Developed reusable detection and response runbooks for repeatable security operations
+A simulated Security Operations Center built to mirror enterprise detection and response workflows across common attack scenarios.
+- Built a centralized monitoring pipeline using Sysmon + Splunk/Wazuh for endpoint telemetry collection and analysis
+- Simulated attacker behaviors including brute-force activity, privilege escalation, and suspicious PowerShell execution
+- Performed alert triage, log correlation, IOC analysis, and timeline-based incident investigation
+- Authored structured incident response reports with findings, indicators, timelines, and remediation steps
+- Developed reusable detection and response runbooks for repeatable SOC investigations
 
 🤖 BERT-powered Phishing Detection · [GitHub](https://github.com/kalagam1/phishing-url-detection-bert)
-- Fine-tuned BERT (HuggingFace Transformers) for phishing URL classification at scale.
-- Achieved 92.2% accuracy · 0.94 recall, optimized to reduce false negatives in phishing detection
-- Processed ~50K labeled URLs using PyTorch + Transformers + Scikit-learn
-- Designed for high-recall security use cases where missed threats are critical
+A phishing URL detection pipeline built to support high-recall threat classification for malicious link detection.
+- Fine-tuned BERT (HuggingFace Transformers) for phishing URL classification using ~50K labeled URLs
+- Achieved 92.2% accuracy and 0.94 recall, optimizing for reduced false negatives in phishing detection workflows
+- Built a classification pipeline using PyTorch, Transformers, and Scikit-learn for security-focused NLP analysis
+- Designed for defensive use cases where missed malicious URLs carry higher operational risk than false positives
 
 🔐 Ironclad Secure Blog Platform · [GitHub](https://github.com/kalagam1/secure-blog-platform)
-- Security-first full-stack web application designed with layered defenses against common attack vectors.
-- Implemented role-based access control (RBAC) with strict privilege separation
-- Integrated CSRF protection across all state-changing operations
-- Prevented SQL injection using parameterized queries and input validation
-- Built using Node.js, Express, and MySQL
+A security-first web application designed to demonstrate defensive backend engineering and application-layer protections.
+- Implemented role-based access control (RBAC) to enforce privilege separation across application workflows
+- Secured state-changing operations with CSRF protections and input validation safeguards
+- Prevented SQL injection through parameterized queries and hardened database interaction patterns
+- Applied secure backend design principles aligned with authentication, session security, and OWASP Top 10 mitigation
 
 💬 Secure-Talk: Concurrent Chat System · [GitHub](https://github.com/kalagam1/secure-concurrent-chat)
-- High-performance TCP-based messaging system designed with authentication and concurrency controls.
-- Implemented Go routines for concurrent client handling
-- Designed a custom JSON-based authentication protocol
-- Supported secure private and group messaging channels over TCP
-- Built with Go, Node.js, and raw socket programming
+A concurrent messaging system built to explore secure communication design, authentication workflows, and backend access control.
+- Built a TCP-based chat system with concurrent client handling using Go routines
+- Designed a custom JSON-based authentication protocol to manage user validation and session behavior
+- Supported secure private and group messaging channels with structured server-side message handling
+- Explored secure systems design concepts around authentication flow, protocol handling, and abuse-resistant backend behavior
+
+---
+---
+
+### 🧪 Additional Technical Projects
 
 🎮 Crawler Bot Reinforcement Learning · [GitHub](https://github.com/kalagam1/crawler-rl-learning)
- - Implemented Monte Carlo, SARSA, and Q-Learning algorithms to optimize robotic movement in a simulated environment
- - Designed ε-greedy policy for action selection across a 19×37 state space with 9 actions per state
- - Developed Q-value update mechanisms using trajectory-based and temporal-difference learning
- - Improved agent performance by optimizing reward based on forward displacement
- - Visualized learning using Q-value and state-value representations
+Implemented Monte Carlo, SARSA, and Q-Learning algorithms to optimize robotic movement in a simulated environment.
+- Designed an ε-greedy policy for action selection across a 19×37 state space with 9 actions per state
+- Developed Q-value update mechanisms using trajectory-based and temporal-difference learning
+- Improved agent performance by optimizing rewards based on forward displacement
+- Visualized learning progress using Q-value and state-value representations
 
 ---
 
 ### 📚 Research & Publications
 🧠 CNN-based Bronchopneumonia Detection · [IEEE ICACCS 2023](https://ieeexplore.ieee.org/document/10112695)
-- Developed a deep learning-based medical imaging system for automated pneumonia classification using supervised CNN architectures.
-- Focused on improving diagnostic accuracy in low-resource environments.
+Developed a deep learning-based medical imaging system for automated pneumonia classification using supervised CNN architectures.
+- Focused on improving diagnostic accuracy in low-resource environments
+- Published as part of IEEE ICACCS 2023
 
 🔐 EHR Security with Immutable Ledger Databases · [GitHub](https://github.com/kalagam1/ehr-immutable-ledger-security)
-- Research on transitioning healthcare systems from mutable databases to immutable ledger-based architectures (Amazon QLDB) to improve auditability, ransomware resistance, and tamper-proof medical records.
-
+Research on transitioning healthcare systems from mutable databases to immutable ledger-based architectures to improve auditability, ransomware resilience, and tamper-resistant medical records.
+- Evaluated how Amazon QLDB can strengthen integrity and forensic trust in electronic health record systems
+- Focused on database immutability, auditability, and resilience against unauthorized modification of sensitive records
 ---
 
 ### 🛠️ Technical Skills
 - Languages: Python, Go, JavaScript (Node.js), SQL
-- Security Tools: Splunk, Wazuh, Burp Suite, OWASP ZAP, Nmap, Wireshark, Metasploit
-- Security Domains: SOC operations, Threat detection engineering, Application security, Incident response
-- Concepts: SIEM correlation, Log analysis, RBAC, IAM, JWT, OWASP Top 10, Adversarial ML
+- Security Tools: Splunk, Wazuh, Sysmon, Burp Suite, OWASP ZAP, Nmap, Wireshark, Metasploit
+- Security Domains: Detection engineering, Security operations, Incident response, Threat investigation, Application security
+- Concepts: SIEM correlation, log analysis, IOC investigation, RBAC, IAM, JWT, authentication security, OWASP Top 10, phishing detection
+
+---
+
+### 🎯 Target Roles
+- Security Engineer
+- Detection Engineer
+- SOC / Security Operations Analyst
+- Incident Response Analyst
+- Threat Detection / Security Automation Engineer
 
 ---
 
 ### 🧩 Philosophy
-Building systems that don’t just prevent failure, but detect, adapt, and respond under attack conditions.
+Building systems that go beyond prevention; systems that can observe, detect, investigate, and respond when defenses are tested in the real world.
